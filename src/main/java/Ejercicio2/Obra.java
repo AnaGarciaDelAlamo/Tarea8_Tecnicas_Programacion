@@ -1,6 +1,6 @@
 package Ejercicio2;
 
-public class Obra {
+public abstract class Obra {
     protected String titulo;
     protected String autor;
 
